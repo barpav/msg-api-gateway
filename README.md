@@ -15,3 +15,5 @@ This is API gateway component of the [Messenger](https://github.com/barpav/messe
 * Logging, including Elastic Common Schema (ECS) log format for further [log collection and visualization](https://github.com/barpav/msg-logs).
 
 * Providing other functions such as transmitting request properties to the microservices, or setting max size of files to upload.
+
+See [Nginx configuration](./nginx.conf) and [deployment diagram](https://github.com/barpav/messenger#deployment-diagram) for details.
